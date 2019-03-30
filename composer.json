@@ -1,0 +1,16 @@
+{
+    "name": "boly/solid",
+    "authors": [
+        {
+            "name": "Ahmed",
+            "email": "ahmed.mostafa@code95.info"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+
+}
